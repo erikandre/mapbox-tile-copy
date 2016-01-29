@@ -15,3 +15,5 @@ Options:
   --stats=[filename]
   --retry=[number]     Retry get/put operations on failure
   --progressinterval=[number of seconds]   If not included, shows progress by default
+  --minzoom=[number] If not included the default value from the input file is used
+  --maxzoom=[number] If not included the default value from the input file is used
